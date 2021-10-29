@@ -6,4 +6,5 @@ Descripcion: Proyecto de prueba para probar commit, readme, codigo
 * php7.4
 * mySQL 8.0
 * XDebug 2.9
+* PHPMyAdmin
 
